@@ -1,0 +1,40 @@
+
+* {
+ 
+  margin: 0;
+
+  border: 0;
+
+  padding: 0;
+
+  font-size: 13pt;
+
+}
+
+
+
+.deteleUnderLine{
+  list-style-type: none; 
+  color: blueviolet;
+
+}
+.deteleUnderLine li{
+
+  display: inline-block;
+  margin:10px;
+ 
+    line-height: 40px;
+ 
+    
+ 
+}
+.colorFont{
+  color:black;
+}
+body{ background: #abe290}
+.App h2{
+  text-align: center;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(240, 14, 18);
+}
